@@ -1,0 +1,2 @@
+# herokudemoinclass
+demo in class
